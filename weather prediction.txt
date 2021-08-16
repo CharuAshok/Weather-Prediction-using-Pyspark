@@ -1,0 +1,12 @@
+Spark step by step installation in Ubuntu:
+
+https://youtu.be/N8-3kCscjrU
+========================================================================
+Spark step by step installation in Windows:
+
+https://youtu.be/4FLo4zgcP1k
+
+========================================================================
+Dataset used:
+
+https://www.kaggle.com/keshan/the-shifts-weather-prediction-dataset
